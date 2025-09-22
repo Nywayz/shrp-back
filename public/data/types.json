@@ -1,0 +1,21 @@
+[
+    { "id": 1,  "name": "Normal",   "name_fr": "Normal",    "icon": "/assets/types/normal.svg",   "icon_mini": "/assets/types/mini/normal.svg" },
+    { "id": 2,  "name": "Fire",     "name_fr": "Feu",       "icon": "/assets/types/fire.svg",     "icon_mini": "/assets/types/mini/fire.svg" },
+    { "id": 3,  "name": "Water",    "name_fr": "Eau",       "icon": "/assets/types/water.svg",    "icon_mini": "/assets/types/mini/water.svg" },
+    { "id": 4,  "name": "Electric", "name_fr": "Électrik",  "icon": "/assets/types/electric.svg", "icon_mini": "/assets/types/mini/electric.svg" },
+    { "id": 5,  "name": "Grass",    "name_fr": "Plante",    "icon": "/assets/types/grass.svg",    "icon_mini": "/assets/types/mini/grass.svg" },
+    { "id": 6,  "name": "Ice",      "name_fr": "Glace",     "icon": "/assets/types/ice.svg",      "icon_mini": "/assets/types/mini/ice.svg" },
+    { "id": 7,  "name": "Fighting", "name_fr": "Combat",    "icon": "/assets/types/fighting.svg", "icon_mini": "/assets/types/mini/fighting.svg" },
+    { "id": 8,  "name": "Poison",   "name_fr": "Poison",    "icon": "/assets/types/poison.svg",   "icon_mini": "/assets/types/mini/poison.svg" },
+    { "id": 9,  "name": "Ground",   "name_fr": "Sol",       "icon": "/assets/types/ground.svg",   "icon_mini": "/assets/types/mini/ground.svg" },
+    { "id": 10, "name": "Flying",   "name_fr": "Vol",       "icon": "/assets/types/flying.svg",   "icon_mini": "/assets/types/mini/flying.svg" },
+    { "id": 11, "name": "Psychic",  "name_fr": "Psy",       "icon": "/assets/types/psychic.svg",  "icon_mini": "/assets/types/mini/psychic.svg" },
+    { "id": 12, "name": "Bug",      "name_fr": "Insecte",   "icon": "/assets/types/bug.svg",      "icon_mini": "/assets/types/mini/bug.svg" },
+    { "id": 13, "name": "Rock",     "name_fr": "Roche",     "icon": "/assets/types/rock.svg",     "icon_mini": "/assets/types/mini/rock.svg" },
+    { "id": 14, "name": "Ghost",    "name_fr": "Spectre",   "icon": "/assets/types/ghost.svg",    "icon_mini": "/assets/types/mini/ghost.svg" },
+    { "id": 15, "name": "Dragon",   "name_fr": "Dragon",    "icon": "/assets/types/dragon.svg",   "icon_mini": "/assets/types/mini/dragon.svg" },
+    { "id": 16, "name": "Dark",     "name_fr": "Ténèbres",  "icon": "/assets/types/dark.svg",     "icon_mini": "/assets/types/mini/dark.svg" },
+    { "id": 17, "name": "Steel",    "name_fr": "Acier",     "icon": "/assets/types/steel.svg",    "icon_mini": "/assets/types/mini/steel.svg" },
+    { "id": 18, "name": "Fairy",    "name_fr": "Fée",       "icon": "/assets/types/fairy.svg",    "icon_mini": "/assets/types/mini/fairy.svg" }
+  ]
+  

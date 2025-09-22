@@ -1,0 +1,11 @@
+[
+    { "id": 1, "name": "Self",            "name_fr": "Lanceur" },
+    { "id": 2, "name": "Ally",            "name_fr": "Allié" },
+    { "id": 3, "name": "User and Allies", "name_fr": "Lanceur et alliés" },
+    { "id": 4, "name": "Opponent",        "name_fr": "Adversaire" },
+    { "id": 5, "name": "Random Opponent", "name_fr": "Adversaire aléatoire" },
+    { "id": 6, "name": "All Opponents",   "name_fr": "Tous les adversaires" },
+    { "id": 7, "name": "All Adjacent",    "name_fr": "Tous les adjacents" },
+    { "id": 8, "name": "Field",           "name_fr": "Terrain" }
+  ]
+  

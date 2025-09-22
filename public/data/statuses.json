@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Burn",             "name_fr": "Brûlure" },
+    { "id": 2, "name": "Paralysis",        "name_fr": "Paralysie" },
+    { "id": 3, "name": "Poison",           "name_fr": "Empoisonnement" },
+    { "id": 4, "name": "Badly Poisoned",   "name_fr": "Empoisonnement grave" },
+    { "id": 5, "name": "Sleep",            "name_fr": "Sommeil" },
+    { "id": 6, "name": "Freeze",           "name_fr": "Gel" },
+    { "id": 7, "name": "Confusion",        "name_fr": "Confusion" },
+    { "id": 8, "name": "Flinch",           "name_fr": "Peur" },
+    { "id": 9, "name": "Infatuation",      "name_fr": "Amour" }
+  ]
+  

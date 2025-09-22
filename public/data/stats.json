@@ -1,0 +1,10 @@
+[
+    { "id": 1, "name": "Attack",          "name_fr": "Attaque",            "short_fr": "Att" },
+    { "id": 2, "name": "Defense",         "name_fr": "Défense",            "short_fr": "Déf" },
+    { "id": 3, "name": "Special Attack",  "name_fr": "Attaque Spéciale",   "short_fr": "AttSpé" },
+    { "id": 4, "name": "Special Defense", "name_fr": "Défense Spéciale",   "short_fr": "DéfSpé" },
+    { "id": 5, "name": "Speed",           "name_fr": "Vitesse",            "short_fr": "Vit" },
+    { "id": 6, "name": "Accuracy",        "name_fr": "Précision",          "short_fr": "Préc" },
+    { "id": 7, "name": "Evasion",         "name_fr": "Esquive",            "short_fr": "Esq" }
+  ]
+  

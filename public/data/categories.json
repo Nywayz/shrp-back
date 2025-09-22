@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Physical", "name_fr": "Physique",  "icon": "/assets/categories/physical.svg" },
+    { "id": 2, "name": "Special",  "name_fr": "Spéciale",  "icon": "/assets/categories/special.svg" },
+    { "id": 3, "name": "Status",   "name_fr": "Statut",    "icon": "/assets/categories/status.svg" }
+  ]
+  
